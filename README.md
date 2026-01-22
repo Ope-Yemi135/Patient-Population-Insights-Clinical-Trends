@@ -1,7 +1,5 @@
 # Patient Population Insights & Clinical Trends Dashboard
 
----
-
 ## Project Overview
 This project presents an interactive Patient Population Insights & Clinical Trends Dashboard designed to analyze demographic distribution, medical conditions, and clinical patterns within a patient population. The dashboard enables healthcare stakeholders to better understand patient profiles, disease prevalence, and resource allocation needs to support effective clinical and operational decision-making.
 
