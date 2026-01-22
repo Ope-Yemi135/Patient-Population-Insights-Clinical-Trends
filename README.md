@@ -21,13 +21,13 @@ This project presents an interactive Patient Population Insights & Clinical Tren
 
 ## Key Metrics & Insights
 
-- **Total Patients: **10,000
+- Total Patients: 10,000
 
-- **Average Patient Age: **51.45 years
+- Average Patient Age: 51.45 years
 
-- ** Most Common Blood Type: AB−
+- Most Common Blood Type: AB−
 
-- **Top Medical Condition: Asthma
+- Top Medical Condition: Asthma
   
 ---
 
