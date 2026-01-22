@@ -112,8 +112,8 @@ This project presents an interactive Patient Population Insights & Clinical Tren
 
 ## Tools & Technologies
 
-- **Power BI – Interactive dashboard development
+- Power BI – Interactive dashboard development
 
-- **DAX – Calculated measures and KPIs
+- DAX – Calculated measures and KPIs
 
-- **Healthcare Patient Data – Demographic and clinical datasets
+- Healthcare Patient Data – Demographic and clinical datasets
